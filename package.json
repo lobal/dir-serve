@@ -1,6 +1,6 @@
 {
   "name": "@lobal/dir-serve",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Express middleware that serves files in a directory as static, and HTML files as routes. Can be configured to serve other file types as routes.",
   "main": "dist/index.js",
   "module": "src/index.js",
